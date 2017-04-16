@@ -1,0 +1,34 @@
+Coke,1.25,6
+Diet Coke,1.25,6
+Cherry Coke,1.25,6
+Diet Cherry Coke,1.25,6
+Caffeine Free Coke,1.25,6
+Coke Zero,1.25,6
+Cherry Coke Zero,1.25,6
+Vanilla Coke Zero,1.25,6
+Fanta,1.25,6
+Fanta Zero,1.25,6
+Mello Yellow,1.25,6
+Mello Yellow Zero,1.25,6
+Pibb Xtra,1.25,6
+Pibb Zero,1.25,6
+Barq's,1.25,6
+Caffeine Free Barq's,1.25,6
+Diet Barq's,1.25,6
+Vanilla Coke,1.25,6
+Diet Coke w/Lime,1.25,6
+Sprite,1.25,6
+Diet Sprite,1.25,6
+Minute Maid,1.25,6
+Minute Maid Light,1.25,6
+Dasani Water,1.50,10
+Vault,2.00,4
+Vault Zero,2.00,6
+Schweppes,1.25,6
+Caffeine Free TaB,1.25,6
+Milk,2.00,1
+OJ,2.50,6
+Cherry Dasani Water,1.50,2
+SoBe Life Water,1.00,3
+Iced Coffee,1.25,4
+Monster,3.00,5
